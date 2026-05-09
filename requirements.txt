@@ -5,3 +5,8 @@ plotly
 yfinance
 pandas_ta
 scipy
+streamlit==1.42.0
+pandas
+numpy
+plotly
+yfinance
